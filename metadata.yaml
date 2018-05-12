@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/187
     wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37373#Indian-Scout-Talks--A-Guide-for-Boy-Scouts-and-Camp-Fire-Girls
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
 identifiers:
