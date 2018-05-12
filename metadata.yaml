@@ -1,0 +1,35 @@
+_repo: Indian-Scout-Talks--A-Guide-for-Boy-Scouts-and-Camp-Fire-Girls_37373
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eastman, Charles Alexander
+    aliases:
+    - Ohiyesa
+    - Okhidzheza
+    - Eastman, Charles A.
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '187'
+    url: http://www.gutenberg.org/2009/agents/187
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
+description: ''
+gutenberg_issued: '2011-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37373'
+  lccn: '14017879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Social life and customs'
+- !lcsh 'Boy Scouts'
+- !lcsh 'Outdoor life'
+- !lcc 'SK'
+- !lcsh 'Camp Fire Girls'
+title: 'Indian Scout Talks: A Guide for Boy Scouts and Camp Fire Girls'
+url: http://www.gutenberg.org/ebooks/37373
